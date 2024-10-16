@@ -1,0 +1,118 @@
+body{
+    height: 100vh;
+    width: 98vw;
+}
+header .cont a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    /* position: absolute; */
+}
+header{
+    position: relative;
+    display: inline-block;
+}
+header .aa img{
+    display: inline;
+    /* position: relative; */
+    /* background-size: cover; */
+    display: block;
+    width: 100vw;
+    height: 500px;
+}
+header .aa .b1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+.a{
+    margin-top: 30px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    font-size: 20px;
+    margin-top: 5px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.d{
+    display: flex;
+    justify-content: space-between;
+}
+.d{
+    margin-left: 70px;
+}
+.g{
+    margin-left: 150px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+.f{
+    width: 30vw;
+    margin-right: 170px;
+    margin-top: 160px;
+}
+.h{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    background-color: black;
+    color: white;
+}
+main .i img{
+    display: inline;
+    position: relative;
+    /* background-size: cover; */
+    display: block;
+    width: 100vw;
+    height: 500px; 
+}
+main .i .j{
+    margin-top: 20px;
+    margin-left: 600px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 20px;
+    
+}
+footer{
+    padding: 50px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main .contact-info{
+    display: flex;
+}
+main .map-image img{
+    height: 150px;
+    width: 300px;
+}
+footer .b1{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 15px;
+    
+}
